@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+HELP.md
+>>>>>>> d55e74b... Code challange
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
