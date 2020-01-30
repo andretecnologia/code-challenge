@@ -1,4 +1,5 @@
-#Code Challange for study proposes
+# Code Challange for study purposes
+
 
 ## Create an algorithm to solve the BDD described bellow:
 
