@@ -1,0 +1,17 @@
+public class Main {
+    public static void main(String[] args) {
+        String teste2 = "";
+        String[] testeArr;
+        int t = 1041;
+        while (t / 2 != 0){
+            t = (t / 2);
+            teste2 += t % 2;
+        }
+        testeArr = teste2.split("1", 5);
+        if(testeArr[0].length() > testeArr[1].length()){
+            System.out.println(testeArr[0].length() );
+        }else{
+            System.out.println(testeArr[1].length() );
+        }
+    }
+}
